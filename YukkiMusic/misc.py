@@ -1,7 +1,7 @@
 #
 # Copyright (C) 2021-2022 by Mandarrajtest@Github, < https://github.com/TeamYukki >.
 #
-# LICENSE
+# LICENSEc
 
 
 
